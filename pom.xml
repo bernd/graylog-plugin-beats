@@ -21,9 +21,9 @@
     <url>https://www.graylog.org</url>
 
     <scm>
-        <connection>scm:git:git@github.com:Graylog2/graylog-plugin-beats.git</connection>
-        <developerConnection>scm:git:git@github.com:Graylog2/graylog-plugin-beats.git</developerConnection>
-        <url>https://github.com/Graylog2/graylog-plugin-beats</url>
+        <connection>scm:git:git@github.com:bernd/graylog-plugin-beats.git</connection>
+        <developerConnection>scm:git:git@github.com:bernd/graylog-plugin-beats.git</developerConnection>
+        <url>https://github.com/bernd/graylog-plugin-beats</url>
         <tag>HEAD</tag>
     </scm>
 
